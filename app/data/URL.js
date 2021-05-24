@@ -1,0 +1,22 @@
+export const URLS = [
+  '/about',
+  '/work',
+  '/project/Ad0lph-OS',
+  '/project/Personal-Website',
+  '/project/Nagini',
+  '/project/Adolphus-Terminal',
+  '/project/Insta-Clone',
+  '/project/E-Book-Store',
+  '/project/SMS',
+  '/project/AI-Smart-Helmet',
+  '/project/say-yes-to-the-world',
+  '/project/shell-make-the-future',
+  '/project/corvette-sound-visualizer',
+  '/project/nike-city-fast',
+  '/project/airbnb-family-trips',
+  '/project/believe-earth',
+  '/project/doki-vacations',
+  '/project/app-marathon',
+  '/project/fiap-next',
+  '/project/fiap'
+]

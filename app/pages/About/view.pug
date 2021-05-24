@@ -1,0 +1,17 @@
+div(class=`Wrapper ${styles.wrapper}`)
+  h1(class=`Title ${styles.title}`) About Me
+
+  p(class=`Description ${styles.description}`)
+    | I'm Prabith GS. I Am A Reverse Engineer At Team Bi0s 👨🏻‍💻 and a Front end developer.
+    | I'm currently a First Year CSE student at Amrita School of Engineering , Amritapuri and aspiring software developer.Interested in working on backend, API's, Databases . Currently working on Cyber Security.
+
+  p(class=`Description ${styles.description}`)
+    | I'm an independent teamworker strong in research and coding.I've worked with a wide variety of programming languages. For web applications I use HTML, CSS, Javascript and React, though I am learning PHP. Whenever I need the most performance possible I obviously go with C/C++ and finally when I am building prototypes or working on my hobby projects I fall back on Python.
+
+  div(class=`Social ${styles.social}`)
+    span(class=styles.social__title) Get In Touch
+
+    ul(class=styles.social__list)
+      each social, index in socials
+        li(class=styles.social__item)
+          a(class=styles.social__link href=social.url target="_blank")=social.label
