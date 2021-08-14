@@ -25,7 +25,7 @@ export default [
         text: 'Ad0lph-OS'
       }
     ],
-    url: 'https://prabhigupta.github.io/adolph-OS/',
+    url: 'https://adolphos.prabith.ga',
     content: [
       {
         type: 'screenshot',
@@ -56,7 +56,7 @@ export default [
       
       
     ],
-    url: 'https://prabhigupta.github.io/CV/index.html',
+    url: 'https://cv.prabith.ga',
     content: [
       {
         type: 'screenshot',
@@ -107,7 +107,7 @@ export default [
         text: 'Nagini: Epic Snake Game'
       }
     ],
-    url: 'https://prabhigupta.github.io/Nagini/',
+    url: 'https://nagini.prabith.ga',
     content: [
       {
         type: 'screenshot',
@@ -142,7 +142,7 @@ export default [
         text: 'HTML · CSS · JavaScript'
       }
     ],
-    url: 'https://prabhigupta.github.io/terminal/',
+    url: 'https://terminal.prabith.ga',
     content: [
       {
         type: 'screenshot',
@@ -171,7 +171,7 @@ export default [
         text: 'Html · CSS · JavaScript'
       }
     ],
-    url: 'https://prabhigupta.github.io/instaBlog/',
+    url: 'insta.prabith.ga',
     content: [
       {
         type: 'screenshot',
